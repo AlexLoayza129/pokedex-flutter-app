@@ -1,16 +1,17 @@
-# apiv2
+# Pokedex API
 
-A new Flutter project.
+Author: AlexLoayza129
 
-## Getting Started
+## Importante ejecutar los siguientes comandos para correr correctamente el proyecto
 
-This project is a starting point for a Flutter application.
+$ flutter downgrade v2.10.4
 
-A few resources to get you started if this is your first Flutter project:
+## Validar que es la version "2.10.4"
+$ flutter --version
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Dentro del proyecto ejecutar el siguiente comando para descargar las dependencias
+$ flutter pub get
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Correr el proyecto
+$ flutter run
+
